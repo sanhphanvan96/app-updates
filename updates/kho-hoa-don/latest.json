@@ -1,0 +1,6 @@
+{
+  "version": "3.0.0",
+  "notes": "Phiên bản v3.0.0: Kho lưu trữ SQLite, phân trang tối ưu bộ nhớ, xuất Excel đa sheet và hỗ trợ Auto-Updater.",
+  "pub_date": "2026-08-16T15:00:00Z",
+  "platforms": {}
+}
