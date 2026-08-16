@@ -1,11 +1,11 @@
 {
-  "version": "3.0.0",
-  "notes": "Phiên bản v3.0.0: Kho lưu trữ SQLite, phân trang tối ưu bộ nhớ, xuất Excel đa sheet và hỗ trợ Auto-Updater.",
-  "pub_date": "2026-08-16T15:00:00Z",
+  "version": "3.0.1",
+  "notes": "- Sửa lỗi kiểm tra cập nhật trên Windows\n- Tối ưu bộ nhớ và giao diện\n- Tự động kiểm tra bản mới mượt mà",
+  "pub_date": "2026-08-16T16:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/sanhphanvan96/app-updates/releases"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWtnd0crZ21rYTA4Zkt4S29ZVWgxS2dxWDN5UjFXOW9WL3dUMm56T0tkM0htTjZRdThqdC9tRldtcGZzY1ZTc09Id0dlTllUVWpLaVFqSUd3bkRQaEhsZk5wL3lxRWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODcyODYxCWZpbGU6S2hvIEjDs2EgxJDGoW4gxJBp4buHbiBU4butXzMuMC4xX3g2NC1zZXR1cC5leGUKdFY0Rlc0RlVZRTVtRkNIVFRSOTFQNzBRUTFnSDZqWk8wNmZaZWhrVHRxcTk1YnhBN2p5VWVFenFtQnk2TzJTMHUzaks2WVcreExyZnNtMDN6R1c3RHc9PQo=",
+      "url": "https://github.com/sanhphanvan96/app-updates/releases/download/kho-hoa-don-v3.0.1/Kho.Hóa.Đơn.Điện.Tử_3.0.1_x64-setup.nsis.zip"
     }
   }
 }
