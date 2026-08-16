@@ -1,11 +1,11 @@
 {
   "version": "3.0.1",
-  "notes": "- Sửa lỗi kiểm tra cập nhật trên Windows\n- Tối ưu bộ nhớ và giao diện\n- Tự động kiểm tra bản mới mượt mà",
-  "pub_date": "2026-08-16T16:15:00Z",
+  "notes": "✨ Phiên bản v3.0.1:\n- Nâng cấp tính năng và cải thiện hiệu năng\n- Cập nhật tự động mượt mà",
+  "pub_date": "2026-08-16T10:07:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWtnd0crZ21rYTA4Zkt4S29ZVWgxS2dxWDN5UjFXOW9WL3dUMm56T0tkM0htTjZRdThqdC9tRldtcGZzY1ZTc09Id0dlTllUVWpLaVFqSUd3bkRQaEhsZk5wL3lxRWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODcyODYxCWZpbGU6S2hvIEjDs2EgxJDGoW4gxJBp4buHbiBU4butXzMuMC4xX3g2NC1zZXR1cC5leGUKdFY0Rlc0RlVZRTVtRkNIVFRSOTFQNzBRUTFnSDZqWk8wNmZaZWhrVHRxcTk1YnhBN2p5VWVFenFtQnk2TzJTMHUzaks2WVcreExyZnNtMDN6R1c3RHc9PQo=",
-      "url": "https://github.com/sanhphanvan96/app-updates/releases/download/kho-hoa-don-v3.0.1/Kho.Hóa.Đơn.Điện.Tử_3.0.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWtnd0crZ21rYXkxQ09rZzhsR3R2a1BEQnRISGNJSU5pbUZGaUVGYjhreG10c003TDJZcU9vTTVBVFRRL3NobjBiNDRSMmtQZkNuMm5IVGkyQ0owbkRBOEdvbmRwaEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODczNjQ1CWZpbGU6a2hvLWhvYS1kb25fMy4wLjFfeDY0LXNldHVwLmV4ZQp4UVRjY0NROHQxbVRPeEdFQ3pRRUdVYklNZ1VLWlR0d3pTcDBpcVNHaE5CdXNsTWY4bzRkQUVjY2kraFpHZXF0Sm5EcnZRcm83ZGRQZXQyaklzVElBQT09Cg==",
+      "url": "https://github.com/sanhphanvan96/app-updates/releases/download/kho-hoa-don-v3.0.1/kho-hoa-don_3.0.1_x64-setup.exe"
     }
   }
 }
