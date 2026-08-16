@@ -1,11 +1,11 @@
 {
-  "version": "3.0.1",
-  "notes": "✨ Phiên bản v3.0.1:\n- Nâng cấp tính năng và cải thiện hiệu năng\n- Cập nhật tự động mượt mà",
-  "pub_date": "2026-08-16T10:07:53Z",
+  "version": "3.0.2",
+  "notes": "✨ Phiên bản v3.0.2:\n- Nâng cấp tính năng và cải thiện hiệu năng\n- Cập nhật tự động mượt mà",
+  "pub_date": "2026-08-16T12:17:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWtnd0crZ21rYXkxQ09rZzhsR3R2a1BEQnRISGNJSU5pbUZGaUVGYjhreG10c003TDJZcU9vTTVBVFRRL3NobjBiNDRSMmtQZkNuMm5IVGkyQ0owbkRBOEdvbmRwaEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODczNjQ1CWZpbGU6a2hvLWhvYS1kb25fMy4wLjFfeDY0LXNldHVwLmV4ZQp4UVRjY0NROHQxbVRPeEdFQ3pRRUdVYklNZ1VLWlR0d3pTcDBpcVNHaE5CdXNsTWY4bzRkQUVjY2kraFpHZXF0Sm5EcnZRcm83ZGRQZXQyaklzVElBQT09Cg==",
-      "url": "https://github.com/sanhphanvan96/app-updates/releases/download/kho-hoa-don-v3.0.1/kho-hoa-don_3.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOWtnd0crZ21rYS9XakZvVmZLVU5iNlg3ck92N2c1bCswRnBTdzVaN1N5SGUzN2hqVjNUaSthMTdxN0JlazRhMUlsM1hWMThBdHhhRk05RElvZXZlT1JMYnJjZUNiR0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODgyNjUyCWZpbGU6S2hvIEjDs2EgxJDGoW4gxJBp4buHbiBU4butXzMuMC4yX3g2NC1zZXR1cC5leGUKZnp5QXl6S1Nkc1YwQnpreWxpcnBLc3VuY05CdWFncGRZUW9GRmErSGU4Vm5ab2dDb0dzWWRMYWZzSW9SR1R2ZUJycDBsSzQxWTkrdFY1c3FMZkc0QWc9PQo=",
+      "url": "https://github.com/sanhphanvan96/app-updates/releases/download/kho-hoa-don-v3.0.2/kho-hoa-don_3.0.2_x64-setup.exe"
     }
   }
 }
